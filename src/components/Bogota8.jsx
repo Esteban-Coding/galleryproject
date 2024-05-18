@@ -1,10 +1,10 @@
 import React from 'react'
-import bogota8jpg from '../images/bogota8.jpg'
+import bogota8 from '../images/bogota8.jpg'
 
 const Bogota8 = () => {
     return (
         <div>
-            <img src={bogota8jpg} alt="Paisaje de la capital colombiana, Bogotá D.C." />
+            <img src={bogota8} alt="Paisaje de la capital colombiana, Bogotá D.C." />
         </div>
     )
 }
